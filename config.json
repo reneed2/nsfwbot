@@ -1,8 +1,8 @@
 {
-  "prefix": "your prefix",
-  "token": "your token",
-  "owners": ["OWNER ID"],
-  "footer": "NSFW Bot • is.gd/nsfwbot",
+  "prefix": "!",
+  "token": "MTE1Njg2MTEzNzgwODI2NTIyNg.GOa8pt.E1Llt5e5tbcYnQtAOSDc8nPuMzmWPureGdMIMQ",
+  "owners": ["1133477789492858962"],
+  "footer": "discord.gg/setback",
 
   "msg": {
     "nsfwWarn": "You must use this command in an nsfw channel!",
